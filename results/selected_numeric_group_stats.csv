@@ -1,0 +1,5 @@
+,age,age,age,bmi,bmi,bmi,bp_systolic,bp_systolic,bp_systolic,serum_creatinine,serum_creatinine,serum_creatinine,blood_urea_nitrogen,blood_urea_nitrogen,blood_urea_nitrogen,albumin_serum,albumin_serum,albumin_serum,uric_acid,uric_acid,uric_acid,urine_albumin,urine_albumin,urine_albumin,albumin_creatinine_ratio,albumin_creatinine_ratio,albumin_creatinine_ratio
+,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median
+ckd_present,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,3592,38.917,37.0,3546,28.582,27.1,3470,116.228,114.0,3592,0.757,0.74,3590,12.769,12.0,3592,4.144,4.2,3592,4.933,4.8,3522,11.447,8.45,3522,8.525,6.915
+1,8152,38.942,40.0,4925,26.285,25.6,4047,121.913,119.0,2734,1.024,0.97,2736,17.141,16.0,2774,4.041,4.1,2737,5.397,5.3,4631,53.913,10.8,4631,52.24,10.0

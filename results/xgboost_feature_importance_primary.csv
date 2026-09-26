@@ -1,0 +1,13 @@
+feature,importance
+num__albumin_serum,0.18080452
+num__serum_creatinine,0.16816513
+num__blood_urea_nitrogen,0.11347015
+cat__gender_Female,0.092633255
+num__albumin_creatinine_ratio,0.08616481
+num__height_cm,0.08358366
+num__age,0.056333154
+cat__gender_Male,0.03959096
+num__bicarbonate,0.027514065
+cat__ethnicity_Other/Multiracial,0.027209356
+num__urine_albumin,0.013847301
+num__diabetes_pills,0.013341948

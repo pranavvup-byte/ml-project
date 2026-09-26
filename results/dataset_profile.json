@@ -1,0 +1,42 @@
+[
+  {
+    "dataset":"CKD_NHANES_2021_2023(1).csv",
+    "rows":11933,
+    "columns":29,
+    "missing_cells":114393,
+    "missing_pct":33.0561150331,
+    "target":"ckd_present",
+    "classes":{
+      "1":8341,
+      "0":3592
+    }
+  },
+  {
+    "dataset":"Testing_CKD_dataset(1).csv",
+    "rows":4800,
+    "columns":36,
+    "missing_cells":0,
+    "missing_pct":0.0,
+    "target":"Target",
+    "classes":{
+      "Healthy Kidney":3615,
+      "Mild CKD (Stage 1\u20132)":575,
+      "Moderate CKD (Stage 3)":318,
+      "Severe CKD (Stage 4)":196,
+      "Kidney Failure (Stage 5)":96
+    }
+  },
+  {
+    "dataset":"kidney_disease(1).csv",
+    "rows":400,
+    "columns":26,
+    "missing_cells":1009,
+    "missing_pct":9.7019230769,
+    "target":"classification",
+    "classes":{
+      "ckd":248,
+      "notckd":150,
+      "ckd\t":2
+    }
+  }
+]
